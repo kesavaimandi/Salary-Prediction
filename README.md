@@ -1,6 +1,7 @@
 # Salary-Prediction Web App
 This project is a **machine learning-based web application** that predicts the salary for various AI-related job roles based on user inputs such as job title, education, experience, industry, and location.
 ---
+![screenshot](index_page.png)
 
 ## Features
 - Predicts salary using a trained ML model (80% R² score)
